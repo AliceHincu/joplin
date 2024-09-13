@@ -1,4 +1,4 @@
-name: Build macOS M1
+name: Test generaing latest arm 64 script
 on: [push, pull_request]
 jobs:
   pre_job:
